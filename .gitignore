@@ -1,0 +1,7 @@
+*.log
+.bsp
+/project/
+build.sbt
+/target/
+*.xml
+*.iml
